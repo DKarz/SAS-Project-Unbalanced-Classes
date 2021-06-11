@@ -32,10 +32,9 @@ main.ipynb notebook contain the python implementation of the following items:
 * Data analysis  
 For us, the most important thing is to minimize the number of real defaults that were classified as non-default, that is, after the selection of clients by the model, the bank would receive as few clients who would not be able to repay the loan, as possible. However, it is also important that the number of issued loans does not decrease significantly after the model has been run. That is why we will use two metrics to asses model's performance: FOR (False Ommition Rate) will show how many clients, of which the model offered to issue a loan, will be defaulters and FPR (False Positive Rate) will show how many of all non-defaulters were denied a loan by the model. By minimizing both metrics we will achieve the best model. 
 
-* Feature engineering
-
-
+* Feature engineering  
 There are a few methods to deal with imbalanced target. We will try some under and over-sampling techniques as well as special models that rebalance target while fitting. Also we will try simply to increase treshold, oftentimes it is sufficient to have really good results. 
+
 * Undersampling 
 
 Undersampling is a group of techniques that consists of reducing the data by eliminating examples belonging to the majority class with the objective of equalizing the number of examples of each class.
