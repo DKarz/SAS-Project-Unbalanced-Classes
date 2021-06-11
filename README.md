@@ -35,8 +35,7 @@ For us, the most important thing is to minimize the number of real defaults that
 * Feature engineering  
 There are a few methods to deal with imbalanced target. We will try some under and over-sampling techniques as well as special models that rebalance target while fitting. Also we will try simply to increase treshold, oftentimes it is sufficient to have really good results. 
 
-* Undersampling 
-
+* Undersampling  
 Undersampling is a group of techniques that consists of reducing the data by eliminating examples belonging to the majority class with the objective of equalizing the number of examples of each class.
 
 * * Random undersampling
