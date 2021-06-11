@@ -1,0 +1,9 @@
+pyTelegramBotAPI==3.6.7
+scikit-learn==0.24.2
+sklearn==0.0
+lxml
+dataframe_image
+pandas==1.2.4
+imblearn
+xgboost
+catboost
