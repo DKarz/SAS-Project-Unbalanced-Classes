@@ -73,7 +73,7 @@ We can see that with the Stacking of Balanced Random Forest, Catboost and XGBoos
 ```main.ipynb``` is join of two previous notebooks.  
 
 * Bot usage  
-Also, the telegram bot was implemented in Scoring_bot/Scoring.py file that contains the best model. The bot allows a user to fill the form and learn if he or she may receive a loan.
+Also, the telegram bot was implemented in ```Scoring_bot/Scoring.py``` file that contains the best model. The bot allows a user to fill the form and learn if he or she may receive a loan.
 * *  ```Procfile``` contains the commands for the server to enable automatic deploys. (Not necessary for basic use)
 * *  ```Scoring.py``` is the main file that contains the bot itself. This file must be run to start it.
 * *  ```commit.bat``` enables automatic commits to GitHub. (Not necessary for basic use)
