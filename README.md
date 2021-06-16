@@ -71,5 +71,14 @@ We can see that with the Stacking of Balanced Random Forest, Catboost and XGBoos
 
 * Conclusion  
 ```main.ipynb``` is join of two previous notebooks.  
+
+* Bot usage  
 Also, the telegram bot was implemented in Scoring_bot/Scoring.py file that contains the best model. The bot allows a user to fill the form and learn if he or she may receive a loan.
+* *  ```Procfile``` contains the commands for the server to enable automatic deploys. (Not necessary for basic use)
+* *  ```Scoring.py``` is the main file that contains the bot itself. This file must be run to start it.
+* *  ```commit.bat``` enables automatic commits to GitHub. (Not necessary for basic use)
+* *  ```pre_trained.pkl``` is the pre-trained model.
+* *  ```requirements.txt``` is the file containing the necessary python libraries which are needed for the bot.
+
+To start the bot, one must run the ```Scoring.py``` file on any machine. The bot will start working in Telegram automatically.
 
