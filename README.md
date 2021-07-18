@@ -11,17 +11,14 @@
 
   <h3 align="center">SAS Project</h3>
   <h3 align="center">Unbalanced Classes</h3>
-  <h3 align="center">HSE 2021</h3>
+
   
 
   <p align="center">
     Prepared by <br />
-   <b align="center"> Zobov Vladimir, 
-    Karzanov Daniil, 
-    Molostvov Pavel </b>
+   <b align="center"> Zobov Vladimir, Karzanov Daniil, Molostvov Pavel </b>
   
-  <br />
-  Supervisor: <b>Maria Vorobyova </b><br />
+  
 
   </p>
 </p>
